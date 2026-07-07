@@ -1,15 +1,26 @@
-# Volodymyr Habuda
+# Hi, I'm Volodymyr 👋
 
-Indie developer from Ukraine. 12+ years as a software engineer,
-now building my own developer tools and small products.
+**Solo founder building production software with AI agent pipelines — and shipping it in public.**
 
-## Now
+12 years as a software engineer, now solo. I build with a multi-agent
+pipeline — the thing that actually puts my products in users' hands.
 
-- **[media-toolkit](https://github.com/biovrad/media-toolkit)** — one CLI for
-  audio/video chores: Whisper transcription, TTS, mic recording, dictation,
-  ffmpeg convert. Agent-friendly.
-- Exploring EEG + meditation tooling.
+[![X](https://img.shields.io/badge/X-@volodhabuda-000000?logo=x&logoColor=white)](https://x.com/volodhabuda)
 
-## Elsewhere
+---
 
-- X: [@volodhabuda](https://x.com/volodhabuda)
+### 🧰 Open source
+
+**[media-toolkit](https://github.com/biovrad/media-toolkit)** — one CLI for
+audio/video chores: transcribe (Whisper), TTS, record, dictate, convert.
+Apple Silicon optimized, agent-friendly `--json`.
+
+```sh
+pipx install media-toolkit
+```
+
+---
+
+🛠️ Go · Python · TypeScript · Swift/Kotlin · Postgres
+
+📍 Ukraine · Building in public on [X](https://x.com/volodhabuda)
