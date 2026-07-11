@@ -12,7 +12,7 @@
 
 **[media-toolkit](https://github.com/biovrad/media-toolkit)** — one CLI for
 audio/video chores: transcribe (Whisper), TTS, record, dictate, convert.
-Apple Silicon optimized, agent-friendly `--json`.
+Apple Silicon optimized, structured `--json`.
 
 ```sh
 pipx install media-toolkit
@@ -22,4 +22,4 @@ pipx install media-toolkit
 
 🛠️ Go · Python · TypeScript · Swift/Kotlin · Postgres
 
-📍 Ukraine · Building in public on [X](https://x.com/volodhabuda)
+📍 Ukraine · [X](https://x.com/volodhabuda)
