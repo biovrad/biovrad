@@ -1,9 +1,8 @@
-# Hi, I'm Volodymyr 👋
+# Volodymyr
 
-**Solo founder building production software with AI agent pipelines — and shipping it in public.**
-
-12 years as a software engineer, now solo. I build with a multi-agent
-pipeline — the thing that actually puts my products in users' hands.
+- Engineer since 2010.
+- Apps, CLIs, backends — whatever the problem needs.
+- I open-source the parts that are useful to someone else.
 
 [![X](https://img.shields.io/badge/X-@volodhabuda-000000?logo=x&logoColor=white)](https://x.com/volodhabuda)
 
